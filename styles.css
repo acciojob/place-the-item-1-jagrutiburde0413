@@ -1,2 +1,18 @@
+*{
+	margin:none;
+}
 
+.container{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-between;
+}
+.item1{
+	background-color:green;
+	height:120px;
+	width:120px;
+	margin:20px;
+	font-size:30px;
+}
 /* Your CSS Code here. */
